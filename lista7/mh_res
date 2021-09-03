@@ -1,0 +1,24 @@
+zad 18
+res: Double = 2.270714593882695E-5 (shingle 7)
+res: Double = 0.009844826777928835 (shingle 2)
+
+zad 19 (shingle 3)
+
+min hash 50:    0.04
+min hash 100:   0.07
+min hash 250:   0.056
+jaccard:        0.051138556541875727
+
+
+min hash 50:    0.02
+min hash 100:   0.06
+min hash 250:   0.056
+jaccard:        0.04348571918689424
+
+
+
+
+zad 22
+List[String] = List(1, 4, 5, 4, 4, 5, 4, 4)
+k = 2
+HashMap(4 -> 2)
